@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bare-react-ts-template/static/css/main.97728776.chunk.css",
+    "main.js": "/bare-react-ts-template/static/js/main.68521bfd.chunk.js",
+    "main.js.map": "/bare-react-ts-template/static/js/main.68521bfd.chunk.js.map",
+    "runtime-main.js": "/bare-react-ts-template/static/js/runtime-main.8607793e.js",
+    "runtime-main.js.map": "/bare-react-ts-template/static/js/runtime-main.8607793e.js.map",
+    "static/js/2.f9a2eaa7.chunk.js": "/bare-react-ts-template/static/js/2.f9a2eaa7.chunk.js",
+    "static/js/2.f9a2eaa7.chunk.js.map": "/bare-react-ts-template/static/js/2.f9a2eaa7.chunk.js.map",
+    "index.html": "/bare-react-ts-template/index.html",
+    "static/css/main.97728776.chunk.css.map": "/bare-react-ts-template/static/css/main.97728776.chunk.css.map",
+    "static/js/2.f9a2eaa7.chunk.js.LICENSE.txt": "/bare-react-ts-template/static/js/2.f9a2eaa7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8607793e.js",
+    "static/js/2.f9a2eaa7.chunk.js",
+    "static/css/main.97728776.chunk.css",
+    "static/js/main.68521bfd.chunk.js"
+  ]
+}
